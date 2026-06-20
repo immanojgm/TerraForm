@@ -1,4 +1,4 @@
-# Terraform Learning - Day 1
+# Terraform Learning - Day 1 & 2
 
 Today I started my Terraform journey and learned the basics of Infrastructure as Code (IaC) using AWS.
 
